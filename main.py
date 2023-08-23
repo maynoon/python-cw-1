@@ -15,7 +15,7 @@ area = length * width
 print (area) 
 
 # BONUS: Print the area in the following syntax: "If the length of a rectangle is 5, and width is 3 then the area is: 15". Keep in mind that you should replace the numbers with their respective variables. 
-print("If the length of a rectangle is",length,", and width is",width,"then the area is:",area)
+print(f"If the length of a rectangle is {length} and width is{width}then the area is:{area}")
 
 
 
